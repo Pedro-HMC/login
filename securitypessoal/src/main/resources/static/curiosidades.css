@@ -1,0 +1,58 @@
+body {
+    background-image: url('azulmarinhoébonito.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: Calibri;
+    font-size: xx-large;
+}
+
+h3 {
+    text-align: left;
+    color: white;
+    font-family: Calibri;
+    font-size: 25px;
+}
+
+h4 {
+    text-align: left;
+    color: whitesmoke;
+    font-family: Calibri;
+    border-bottom-style: solid;
+    border-bottom-color: silver;
+    font-size: 25px;
+}
+
+p.est1 {
+    background-color: lightslategray;
+    color: white;
+    font-family: arial;
+    border-style: solid;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}
+
+p.est2 {
+    color: silver;
+    font-family: arial;
+    margin-bottom: 5px;
+}
+
+img {
+    border-style: solid;
+    border-color: silver;
+    margin: 5px;
+    height: 200px;
+}
